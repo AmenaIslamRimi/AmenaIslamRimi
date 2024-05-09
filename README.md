@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
-<p> <img src="https://komarev.com/ghpvc/?username=amenarimi5599&show_icons=true&theme=gotham" alt="amenarimi5599" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=AmenaIslamRimi&show_icons=true&theme=gotham" alt="AmenaIslamRimi" /> </p>
 
 <h1 align="center">Hi there 👋, I'm Amena Islam Rimi</h1>
 <hr>
@@ -14,13 +14,13 @@
 <hr>
 
 <div align="center">
-<a href="https://github.com/amenarimi5599">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenarimi5599&layout=compact&theme=city_lights" />
+<a href="https://github.com/AmenaIslamRimi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmenaIslamRimi&layout=compact&theme=city_lights" />
 </a>
 </div>
 
 <br>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amenarimi5599&layout=compact&show_icons=true&theme=city_lights" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmenaIslamRimi&layout=compact&show_icons=true&theme=city_lights" />
 </div>
