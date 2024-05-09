@@ -2,7 +2,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=amenarimi5599&show_icons=true&theme=gotham" alt="amenarimi5599" /> </p>
 
-<h1 align="center">Hi there 👋, I'm Amena Rimi</h1>
+<h1 align="center">Hi there 👋, I'm Amena Islam Rimi</h1>
 <hr>
 
 - 🔭 I’m currently working on *`A project based on Laravel 9x & ReactJs`*
