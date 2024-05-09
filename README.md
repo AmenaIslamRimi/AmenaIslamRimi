@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on *`A project based on Laravel 9x & ReactJs`*
 
-- 🤔 I’m looking for help with **`ReactJS`, `NodeJS` , `ExpressJs`, `Laravel`**
+- 🤔 I’m looking for help with **`ReactJS`, `NodeJS`, `ExpressJs`, `Laravel`**
 
-- 📫 How to reach me:  <a href="mailto:amenarimi5@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="25" height="22"></a> <a href="https://www.facebook.com/amena.islam.50999"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="facebook" width="25" height="22"></a> <a href="https://www.linkedin.com/in/amena-rimi-ar5599/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="25" height="22"></a> 
+- 📫 How to reach me:  <a href="mailto:amenarimi5@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="25" height="22"></a> <a href="https://www.facebook.com/amena.islam.50999"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="facebook" width="25" height="22"></a> <a href="https://www.linkedin.com/in/amenaislamrimi/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="25" height="22"></a> 
 
 <hr>
 
