@@ -5,9 +5,9 @@
 <h1 align="center">Hi there 👋, I'm Amena Islam Rimi</h1>
 <hr>
 
-- 🔭 I’m currently working on *`A project based on NodeJs, NextJs & Software Quality Testing`*
+- 🔭 I’m currently working on *` Projects based on Software Quality Testing as well as developing based on NodeJs, NextJs & ReactJs`*
 
-- 🤔 I’m looking for help with **`NextJS`, `NodeJS`, `ExpressJs`, `Manual Testing`, `Automaton Testing`**
+- 🤔 I’m looking for help with **`Manual Testing`, `Automaton Testing`, `API Testing`, `Performance Testing`, `NextJS`, `NodeJS`, `ExpressJs`, `ReactJS`**
 
 - 📫 How to reach me:  <a href="mailto:amenarimi5@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="25" height="22"></a> <a href="https://www.facebook.com/amena.islam.50999"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="facebook" width="25" height="22"></a> <a href="https://www.linkedin.com/in/amenaislamrimi/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="25" height="22"></a> 
 
